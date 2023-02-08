@@ -1,0 +1,21 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    
+}
+.container label{
+    font-size: 1rem;
+    font-weight: 700;
+    color:#313131;
+    font-size: 1.25rem;
+}
+.container input{
+    border-radius: 5px;
+    border: 1px solid #dddddd;
+    outline:none;
+    padding: 10px 15;
+    color:#000;
+    width: 100%;
+    height:50%;
+}
